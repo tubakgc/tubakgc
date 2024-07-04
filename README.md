@@ -1,4 +1,4 @@
- [![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+ [![MasterHead]()
 <h1 align="center">Hi 👋, I'm Tuğba Akgüç</h1>
 <h3 align="center">A passionate software tester from Turkey</h3>
 
